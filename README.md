@@ -15,6 +15,6 @@ Este proyecto presenta una animación de un corazón generado utilizando la bibl
 
 Kevin Vargas
 
-## MIS REDES
+## Mis Redes
 
 @kvargasdev
